@@ -1,0 +1,6 @@
+source 'https://rubygems.org'
+gem 'sidekiq'
+gem 'sidetiq'
+gem 'sinatra', '~> 1.4.5'
+gem 'foreman'
+gem 'god'
